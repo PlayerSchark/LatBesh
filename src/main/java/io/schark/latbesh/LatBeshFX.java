@@ -7,6 +7,9 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+/**
+ * @author Player_Schark
+ */
 public class LatBeshFX extends Application {
 	@Override
 	public void start(Stage stage) throws IOException {
